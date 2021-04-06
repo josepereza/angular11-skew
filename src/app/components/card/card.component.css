@@ -1,0 +1,18 @@
+.micard {
+    margin-top: 600px;
+    margin-right :auto;
+    
+    color: black !important;
+    background-color:transparent !important;
+    color: rgb(247, 242, 247) !important;
+    font-size: 30px;
+}
+
+
+@media screen and (max-width: 500px){
+    .micard{
+        margin-top: 800px;
+        font-size: 15px;
+    }
+
+}

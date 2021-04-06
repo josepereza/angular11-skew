@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+    width: auto;
+    height: 1000px;
+    background-image: url(../../../assets/imagenes/fondo1.jfif);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+}
+h1{
+    padding:40px;
+}
+
